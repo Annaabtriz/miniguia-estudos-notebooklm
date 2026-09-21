@@ -149,23 +149,6 @@ Para o investidor defensivo, Graham propôs limites rígidos de preço baseados 
 
 ---
 
-## 🤖 3. Biblioteca de Prompts Reutilizáveis (Prompt Toolkit)
-
-Estes prompts foram testados e refinados (*Chain-of-Thought* + *Guardrails*) para garantir que a IA não alucine métricas financeiras e execute a análise estritamente sob os preceitos de Benjamin Graham. Copie e cole na sua ferramenta (Gemini/NotebookLM) substituindo os dados entre colchetes `[ ]`.
-
-### 🛠️ Prompt 1: Cálculo e Auditoria do Valor Intrínseco
-> **Objetivo:** Calcular o VI com margem de segurança sem erros matemáticos.
-```text
-Atue como um analista financeiro sênior especializado em Value Investing. Calcule o Valor Intrínseco usando a Fórmula de Graham Clássica ($VI = \sqrt{22,5 \times LPA \times VPA}$) para os seguintes dados de entrada:
-- LPA (Lucro por Ação): R$ [INSERIR LPA]
-- VPA (Valor Patrimonial por Ação): R$ [INSERIR VPA]
-- Preço Atual de Mercado: R$ [INSERIR PREÇO ATUAL]
-
-Instruções obrigatórias:
-1. Valide se LPA ou VPA são negativos (se sim, aborte o cálculo e explique que a fórmula de Graham não se aplica a empresas com prejuízo patrimonial/operacional).
-2. Mostre o passo a passo matemático da equação.
-3. Compare o VI calculado com o Preço Atual e determine a Margem de Segurança atual (em %).
-4. Informe se, baseando-se apenas na margem de segurança de [INSERIR MARGEM EX: 30%], a ação apresenta oportunidade de compra ou se está sobreprecificada.
 
 # 📚 Miniguia de Estudo: Metodologia Benjamin Graham (Value Investing)
 
