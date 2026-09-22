@@ -7,6 +7,15 @@
 > *Um guia estruturado de estudos sobre os fundamentos do Value Investing (Investimento em Valor), análise fundamentalista e seleção criteriosa de ativos.*
 
 ---
+# 📈 Value Investing & The Graham Methodology: Building a Financial Second Brain
+
+[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![NotebookLM](https://img.shields.io/badge/Second%20Brain-NotebookLM-emerald.svg)](https://gemini.google.com/notebook/3f5bf85b-a32e-42dd-ba89-b2b10945c934)
+[![Markdown](https://img.shields.io/badge/Documentation-Markdown-000000.svg)](https://daringfireball.net/projects/markdown/)
+
+> *Um guia estruturado de estudos sobre os fundamentos do Value Investing (Investimento em Valor), análise fundamentalista e seleção criteriosa de ativos.*
+
+---
 
 ## 📌 1. Apresentação do Tema de Interesse
 
